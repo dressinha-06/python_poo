@@ -9,7 +9,7 @@ class pessoa:
 
     #criando os métodos
     def exibirDados(seft):
-        print(f"Olá {seft.nome}, sua sua altura é {seft.altura} e sua idade/ é {seft.idade}")
+        print(f"Olá {seft.nome}, sua sua altura é {seft.altura} e sua idade é {seft.idade}")
 
 # Criando os objetos
 p1 = pessoa("Getúlio",1.87, 99)
